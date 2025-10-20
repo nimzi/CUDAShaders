@@ -1,4 +1,5 @@
-# CUDA_Dockerized
+# CUDA Shaders
+
 
 A small workspace that combines a Raylib-based application with CUDA code and a Docker-based build workflow. It's intended as a development/test playground for building and running a CUDA + Raylib application either natively or inside a containerized environment.
 
